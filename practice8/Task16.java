@@ -1,7 +1,7 @@
 package practice8;
 import java.util.*;
 
-public class task16 {
+public class Task16 {
          private final Scanner in = new Scanner(System.in);
 
          private static class Result {
@@ -28,7 +28,7 @@ public class task16 {
          }
 
          public static void main(String[] args) {
-             task16 solver = new task16();
+             task16 solver = new Task16();
              Result result = solver.rec();
              System.out.println(result.count);
     }
