@@ -21,7 +21,7 @@ class StringProcessor implements ProcessStrings {
         return s.toUpperCase();
     }
 }
-public class task6 {
+public class Task6 {
     public static void main(String[] args) {
         StringProcessor proc = new StringProcessor();
         String text = "student RTU MIREA";
