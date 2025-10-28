@@ -1,7 +1,7 @@
 package practice8;
 import java.util.*;
 
-public class task17 {
+public class Task17 {
     private static final Scanner in = new Scanner(System.in);
 
     private static int recMax() {
