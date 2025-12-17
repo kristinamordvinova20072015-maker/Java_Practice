@@ -15,7 +15,7 @@ public class MVCPatternDemo {
         controller.updateView();
 
         // Обновляем модель через контроллер
-        controller.setStudentName("Rita");
+        controller.setStudentName("Kristina");
 
         System.out.println("\nAfter updating student name:");
         controller.updateView();
